@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cv/static/css/main.65cb9238.chunk.css",
+    "main.js": "/cv/static/js/main.2e91e6bb.chunk.js",
+    "main.js.map": "/cv/static/js/main.2e91e6bb.chunk.js.map",
+    "runtime~main.js": "/cv/static/js/runtime~main.6f651ed7.js",
+    "runtime~main.js.map": "/cv/static/js/runtime~main.6f651ed7.js.map",
+    "static/css/2.014e589e.chunk.css": "/cv/static/css/2.014e589e.chunk.css",
+    "static/js/2.8b3d857e.chunk.js": "/cv/static/js/2.8b3d857e.chunk.js",
+    "static/js/2.8b3d857e.chunk.js.map": "/cv/static/js/2.8b3d857e.chunk.js.map",
+    "index.html": "/cv/index.html",
+    "precache-manifest.452cabbc3d03ec4a487a4778a10d445a.js": "/cv/precache-manifest.452cabbc3d03ec4a487a4778a10d445a.js",
+    "service-worker.js": "/cv/service-worker.js",
+    "static/css/2.014e589e.chunk.css.map": "/cv/static/css/2.014e589e.chunk.css.map",
+    "static/css/main.65cb9238.chunk.css.map": "/cv/static/css/main.65cb9238.chunk.css.map",
+    "static/media/App.css": "/cv/static/media/bg1.85f2546e.jpg",
+    "static/media/font-awesome.css": "/cv/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
