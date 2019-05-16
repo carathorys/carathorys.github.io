@@ -1,0 +1,15 @@
+{
+    "lbl_name": "Full name",
+    "lbl_birth_date": "Birth date",
+    "lbl_birth_place": "Birth place",
+    "lbl_location": "Location",
+    "lbl_mail": "E-mail",
+    "lbl_phone_number": "Phone number",
+    "btn_hungarian": "Hungarian",
+    "btn_english": "English",
+    "btn_personal_data": "Personal data",
+    "btn_education": "Education",
+    "btn_experience": "Experience",
+    "btn_skills": "Skills",
+    "btn_contact": "Contact"
+}

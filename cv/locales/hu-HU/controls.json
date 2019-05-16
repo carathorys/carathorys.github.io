@@ -1,0 +1,15 @@
+{
+    "lbl_name": "Teljes név",
+    "lbl_birth_date": "Születési dátum",
+    "lbl_birth_place": "Születési hely",
+    "lbl_location": "Lakhely",
+    "lbl_mail": "E-mail cím",
+    "lbl_phone_number": "Telefonszám",
+    "btn_hungarian": "Magyar",
+    "btn_english": "Angol",
+    "btn_personal_data": "Személyes adatok",
+    "btn_education": "Oktatás",
+    "btn_experience": "Tapasztalatok",
+    "btn_skills": "Képességek",
+    "btn_contact": "Kapcsolat"
+}
