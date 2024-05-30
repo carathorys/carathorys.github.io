@@ -1,1 +1,0 @@
-const a={"header.language.en":"English","header.language.hu":"Hungarian","header.title":"CV - Balazs Gallay","tab.ariaLabel":"Navigation","tab.experiences":"Experiences","tab.home":"Home","tab.skills":"Skills"};export{a as default};
