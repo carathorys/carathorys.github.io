@@ -1,0 +1,1 @@
+const a={"header.language.en":"Angol","header.language.hu":"Magyar","header.title":"CV - Gallay Balázs","tab.ariaLabel":"Navigáció","tab.experiences":"Tapasztalatok","tab.home":"Főoldal","tab.skills":"Készségek"};export{a as default};
